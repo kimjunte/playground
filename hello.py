@@ -1,2 +1,2 @@
-print("hello i'm in master")
-print("hello i'm am ali")
+print("hello world")
+print("ali was here")
